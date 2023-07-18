@@ -4,7 +4,7 @@ BibTeX generic citation style (works w multiple inline)
 # What is this?
 
 This is a Zotero citation style that converts citations to bibtex for Google documents. It's primary use is for Google Docs+Zotero+Overleaf, where:
-* You have a complete draft in Google Doc, with Zotero refernces inline
+* You have a complete draft in Google Doc, with Zotero references inline
 * You have an Overleaf LaTex template
 
 # How to Use

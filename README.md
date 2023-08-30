@@ -24,3 +24,4 @@ The [original document]([url](https://github.com/citation-style-language/styles/
 ### Thanks to
 * Richard Karnesky
 * Brenton M. Wiernik
+* [vicruiser](https://github.com/vicruiser)

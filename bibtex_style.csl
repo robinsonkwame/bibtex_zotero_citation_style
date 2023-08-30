@@ -62,7 +62,7 @@
   </macro>
   <macro name="author-short">
     <names variable="author">
-      <name form="short" delimiter="_" delimiter-precedes-last="always" et-al-min="999" et-al-use-first="999"/>
+      <name form="short" delimiter="_" delimiter-precedes-last="always" et-al-min="2" et-al-use-first="2"/>
       <et-al font-style="italic"/>
       <substitute>
         <names variable="editor"/>
@@ -170,7 +170,6 @@
         <text variable="archive_location" prefix=" archiveLocation={" suffix="}"/>
         <text variable="URL" prefix=" url={" suffix="}"/>
         <text variable="DOI" prefix=" DOI={" suffix="}"/>
-        <text variable="abstract" prefix=" abstractNote={" suffix="}"/>
         <text variable="note" prefix=" note={" suffix="}"/>
         <text macro="number" prefix=" number={" suffix="}"/>
         <text macro="container-title"/>

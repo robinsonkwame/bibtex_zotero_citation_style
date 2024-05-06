@@ -11,7 +11,7 @@ This is a Zotero citation style that converts citations to bibtex for Google doc
 0. Download `bibtex_style.csl`
 1. Zotero > Settings > Cite Icon > "+" button > select `bibtex_style.csl` from where you downloaded it
 2. Go to your Google Doc
-3. Zotero > Document Preferences > The citation style box should pop up, select `BibTeX generic citation style (works w multiple inline)`. Insert a bibliogrpahy section if you haven't already.
+3. Zotero > Document Preferences > The citation style box should pop up, select `BibTeX generic citation style (works w multiple inline)`. Insert a bibliography section if you haven't already.
 4. Copy the text portions of the document into Overleaf.
 5. Copy the bibtex portion of the Google Doc bibliography. Save in overleaf as <your_bib_file.bib>
 6. In the Overleaf document replace `\bibliography{...}` with `\bibliography{<your_bib_file.bib>}`

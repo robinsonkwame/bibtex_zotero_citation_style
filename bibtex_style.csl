@@ -60,10 +60,15 @@
         <text macro="issued-year"/>
       </group>
   </macro>
+  <locale>
+    <terms>
+      <term name="et-al-custom">etal.</term>
+    </terms>
+  </locale>
   <macro name="author-short">
     <names variable="author">
       <name form="short" delimiter="_" delimiter-precedes-last="always" et-al-min="2" et-al-use-first="2"/>
-      <et-al font-style="italic"/>
+      <et-al term="et-al-custom" font-style="italic"/>
       <substitute>
         <names variable="editor"/>
         <names variable="translator"/>

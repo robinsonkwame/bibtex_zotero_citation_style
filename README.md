@@ -25,3 +25,4 @@ The [original document]([url](https://github.com/citation-style-language/styles/
 * Richard Karnesky
 * Brenton M. Wiernik
 * [vicruiser](https://github.com/vicruiser)
+* [flerka](https://github.com/flerka)
